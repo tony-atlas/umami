@@ -3854,10 +3854,10 @@ is_js@^0.9.0:
   resolved "https://registry.yarnpkg.com/is_js/-/is_js-0.9.0.tgz#0ab94540502ba7afa24c856aa985561669e9c52d"
   integrity sha1-CrlFQFArp6+iTIVqqYVWFmnpxS0=
 
-isbot@^3.4.5:
-  version "3.4.5"
-  resolved "https://registry.yarnpkg.com/isbot/-/isbot-3.4.5.tgz#69554585b725238692d9cc41d9a842c5b37fa33d"
-  integrity sha512-+KD6q1BBtw0iK9aGBGSfxJ31/ZgizKRjhm8ebgJUBMx0aeeQuIJ1I72beCoIrltIZGrSm4vmrxRxrG5n1aUTtw==
+isbot@^3.4.8:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/isbot/-/isbot-3.5.0.tgz#602fd980be154c0ba37e8b9154af105627c12398"
+  integrity sha512-QOFF7IE7hUdzo8pbhCubeiMzKdLZt+W/UwRZWwg+zghmnqXoMwh2V0bi5UT+oIvoD0IWCWjzAtp30ZrrRwJVCg==
 
 isexe@^2.0.0:
   version "2.0.0"
